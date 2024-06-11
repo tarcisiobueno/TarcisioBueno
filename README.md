@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarcisio Bueno</h1>
-<h3 align="center">I am interested in Machine Learning and AI and their applications in solving real-world problems.</h3>
+<h3 align="center">I am passionate about Machine Learning and Artificial Intelligence, particularly their applications in solving real-world problems.</h3>
 
 - 🔭 I'm currently pursuing studies in **data science and distributed systems** at Télécom Paris
 
