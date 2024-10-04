@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarcisio Bueno</h1>
 <h3 align="center">I am passionate about Machine Learning and Artificial Intelligence, particularly their applications in solving real-world problems.</h3>
 
-- 🔭 I'm currently pursuing studies in **data science and distributed systems** at Télécom Paris
+- 🔭 I'm currently pursuing my master's degree in **data science** at the Institut Polytechnique de Paris | École Polytechnique.
 
 - 📫 How to reach me **tarcisio.silva.bueno@gmail.com**
 
